@@ -36,3 +36,16 @@ dist/
 
 # Compiled files
 *.so
+
+
+#for now
+config/
+data/
+logs/
+notebooks_rough/
+reports/
+src/backtesting/
+src/execution/
+src/strategies/
+src/risk_management/
+src/tests/
