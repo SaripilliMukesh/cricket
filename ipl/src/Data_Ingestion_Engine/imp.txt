@@ -1,0 +1,6 @@
+Do not run any ingestion scripts recklessly — it will overwrite existing data.
+
+Moreover, these scripts scrape websites, and website structures often change.
+Running the script without verifying the current structure may break things or collect incorrect data and overwrite existing data.
+
+If you still wish to run them, **take a backup of the original data first**, then proceed carefully.
