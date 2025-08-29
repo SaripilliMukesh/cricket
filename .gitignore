@@ -1,0 +1,51 @@
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Databases and logs
+*.db
+*.sqlite3
+*.log
+
+# Data files
+*.csv
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# IDEs and editors
+.vscode/
+.idea/
+.DS_Store
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Compiled files
+*.so
+
+
+#for now
+config/
+data/
+logs/
+notebooks_rough/
+reports/
+src/backtesting/
+src/execution/
+src/strategies/
+src/risk_management/
+src/tests/
